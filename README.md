@@ -43,7 +43,9 @@ This is a personal portfolio website built using React and Tailwind CSS. The web
 Project Structure
 
 Navbar.jsx: The Navbar component with responsive design and interactive hover effects.
+
 assets: Contains the favicon and other assets.
+
 App.css: Additional CSS styling for the project.
 
 
