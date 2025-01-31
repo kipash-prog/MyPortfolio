@@ -31,7 +31,7 @@ This is a personal portfolio website built using React and Tailwind CSS. The web
    npm install
 
   
-Usage
+## Usage
 
 1. start development server:
    ```bash
@@ -47,13 +47,14 @@ assets: Contains the favicon and other assets.
 App.css: Additional CSS styling for the project.
 
 
-Contributing
+## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-contact 
+## contact 
 phone number: +251912063708
+
 telegram: https://t.me/Kipa_s
